@@ -1,0 +1,4 @@
+vk_api
+requests
+vk_captchasolver
+requirements.txt
